@@ -1,0 +1,36 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_i_2017_16566)">
+<rect width="52" height="52" rx="26" fill="url(#paint0_linear_2017_16566)"/>
+</g>
+<rect x="0.5" y="0.5" width="51" height="51" rx="25.5" stroke="url(#paint1_linear_2017_16566)"/>
+<path d="M35.8728 24.2126C36.8464 24.7948 36.8464 26.2052 35.8728 26.7874L20.7698 35.8185C19.77 36.4164 18.5 35.6961 18.5 34.5311L18.5 16.4689C18.5 15.3039 19.77 14.5836 20.7698 15.1815L35.8728 24.2126Z" fill="url(#paint2_linear_2017_16566)" stroke="url(#paint3_linear_2017_16566)"/>
+<defs>
+<filter id="filter0_i_2017_16566" x="0" y="0" width="52" height="55" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="3"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.22 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_2017_16566"/>
+</filter>
+<linearGradient id="paint0_linear_2017_16566" x1="43" y1="44.5" x2="12.5" y2="5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A1B1F"/>
+<stop offset="1" stop-color="#65676F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2017_16566" x1="26" y1="0" x2="26" y2="52" gradientUnits="userSpaceOnUse">
+<stop offset="0.045" stop-color="#9EA5B6"/>
+<stop offset="0.55" stop-color="#404147"/>
+<stop offset="1" stop-color="#FEB424"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2017_16566" x1="27.8" y1="36.6167" x2="27.2994" y2="13.4174" gradientUnits="userSpaceOnUse">
+<stop offset="0.188264" stop-color="white"/>
+<stop offset="1" stop-color="#C4C4C4"/>
+</linearGradient>
+<linearGradient id="paint3_linear_2017_16566" x1="27.3333" y1="36.6167" x2="26.8328" y2="13.4174" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0DFDF"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+</defs>
+</svg>
